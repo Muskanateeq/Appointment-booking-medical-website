@@ -1,0 +1,36 @@
+
+.container {
+  text-align: center;
+  padding-top: 20px;
+  transition: step-end;
+  
+}
+
+
+.heading {
+  font-size: 24px; /* Main heading size */
+  margin-bottom: 10px;
+  color: white;
+  background-color: #1e3a8a;
+  max-width: 30%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-left: 35%;
+  margin-top: 30px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.subheading {
+  font-size: 16px; /* Subheading size */
+  margin-bottom: 20px;
+}
+
+.cardContainer {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center; /* Center the cards */
+}
