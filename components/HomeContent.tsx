@@ -7,7 +7,7 @@ const HomeContent = () => {
     <div className={styles.section}>
       <h3>Qualified Doctors</h3>
       <h2>WHERE PEOPLE COME FIRST</h2>
-      <p>Our patient-centered approach ensures that every individual's needs and preferences guide our care. We foster an environment of respect, empathy, and support, making sure everyone feels valued and heard throughout their healthcare journey.</p>
+      <p>Our patient-centered approach ensures that every individual&apos;s needs and preferences guide our care. We foster an environment of respect, empathy, and support, making sure everyone feels valued and heard throughout their healthcare journey.</p>
     </div>
     <div className={styles.divider}></div> {/* Vertical Divider */}
     <div className={styles.section}>
